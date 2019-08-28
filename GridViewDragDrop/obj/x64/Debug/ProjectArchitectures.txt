@@ -1,0 +1,1 @@
+F:\Projects\UWP Project\GridViewDragDrop\GridViewDragDrop\GridViewDragDrop.csproj;x64
